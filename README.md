@@ -1,5 +1,5 @@
 <p>
-  <img src="./assets/profile-header.png" alt="" width="100%" />
+  <img src="./assets/contour-header-v2.png" alt="" width="100%" />
 </p>
 
 機械学習の実装や、学習・推論を支える基盤づくりに取り組んでいます。
