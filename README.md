@@ -1,6 +1,6 @@
-# Keita Hoshii
-
-Machine Learning Engineer / hosimesi
+<p>
+  <img src="./assets/profile-header.png" alt="Keita Hoshii — Machine Learning Engineer" width="100%" />
+</p>
 
 機械学習の実装や、学習・推論を支える基盤づくりに取り組んでいます。
 
