@@ -1,22 +1,27 @@
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=hosimesi" />
-</div>
+# Keita Hoshii
 
-## Activity
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=hosimesi&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosimesi&theme=vue-dark&layout=compact" />
-</div>
+Machine Learning Engineer / hosimesi
 
-## Profile
-- I'm a Machine Learning Engineer.
+機械学習の実装や、学習・推論を支える基盤づくりに取り組んでいます。
 
-### link
-- [X - @hosimesi11_](https://twitter.com/hosimesi11_)
-- [Zenn - @hosimesi](https://zenn.dev/hosimesi)
-<br>
+## Projects
 
+### [aws-mlops-practice](https://github.com/hosimesi/aws-mlops-practice)
 
-## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,c,typescript,scala,docker,k8s,terraform,aws,gcp" />
-<br>
+AWS 上で MLOps を実践するためのコード。学習パイプライン、推論 API、モデルのバージョン管理、監視までを扱っています。
+
+### [cyjpholiday](https://github.com/hosimesi/cyjpholiday)
+
+日本の祝日を判定する `jpholiday` の Cython 実装。
+
+## Tech Stack
+
+| 分野 | 技術 |
+| :--- | :--- |
+| 言語 | Python / C / TypeScript / Scala |
+| インフラ・運用 | Docker / Kubernetes / Terraform |
+| クラウド | AWS / Google Cloud |
+
+## Links
+
+[Zenn](https://zenn.dev/hosimesi) · [X / @hosimesi11_](https://x.com/hosimesi11_)
